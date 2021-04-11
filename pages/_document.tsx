@@ -18,8 +18,8 @@ export default class MyDocument extends Document {
             <link
               rel='icon'
               type='image/png'
-              sizes='96x96'
-              href='/favicon-96x96.png'
+              sizes='64x64'
+              href='/favicon-64x64.png'
             />
             <link
               rel='icon'
