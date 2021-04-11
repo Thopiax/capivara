@@ -7,14 +7,14 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Capivara',
+  name: 'CAP',
   domain: 'capivara.org',
-  author: 'Eresto Solis de Barros',
+  author: 'Ernesto Solis de Barros',
 
   // open graph metadata (optional)
-  // description: 'Plataf',
-  // socialImageTitle: 'Transitive Bullshit',
-  // socialImageSubtitle: 'Hello World! 👋',
+  description: 'A CAP é uma plataforma focada em disseminar educação econômica e financeira, principalmente nas áreas de poupança e investimento. Esta pequena plataforma quer tornar a literacia financeira mais acessível através da simplificação da informação apresentada aos usuários.',
+  // socialImageTitle: 'CAP',
+  // socialImageSubtitle: 'iEsta pequena plataforma quer tornar a literacia financeira mais acessível através da simplificação da informação apresentada aos usuários.',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
@@ -25,7 +25,7 @@ module.exports = {
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
   defaultPageCover: null,
-  defaultPageCoverPosition: 0.5,
+  defaultPageCoverPosition: 0.75,
 
   // image CDN host to proxy all image requests through (optional)
   // NOTE: this requires you to set up an external image proxy
